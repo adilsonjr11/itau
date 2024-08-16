@@ -29,6 +29,7 @@ spring:
         - insurance-quote-received
         - insurance-policy-created
 
+
   springdoc:
     swaggerUi:
       path: /swagger-ui
