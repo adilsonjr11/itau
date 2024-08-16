@@ -31,3 +31,5 @@ Adicionalmente, expor um endpoint para consulta.
 > e lidas por:
 > * ```jmsTemplate.convertAndSend(queueName, msg)```
 > * ```@JmsListener(queueName)```
+
+# Collection
