@@ -28,3 +28,9 @@ spring:
       queues:
         - insurance-quote-received
         - insurance-policy-created
+
+  springdoc:
+    swaggerUi:
+      path: /swagger-ui
+    apiDocs:
+      path: /v3/api-docs

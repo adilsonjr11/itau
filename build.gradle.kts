@@ -32,6 +32,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.apache.activemq:artemis-jakarta-server")
 	implementation("org.springframework.boot:spring-boot-starter-artemis")
+	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.5.0")
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 	runtimeOnly("com.h2database:h2")
 	annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
